@@ -77,20 +77,12 @@ if __name__ == "__main__": #specifies to execute function if named main, i think
 
 
 
-#2 always put in commands
-#4 sound function
-#4 record note function
-#5 remind me later function
-#6 google python interactive shell game
-#7 list that autoemails
-
 
 
 #def cycle:
  #   for x in range(time.sleep(minute))
 
 
-#def data miner
 
 
 
@@ -107,7 +99,7 @@ if __name__ == "__main__": #specifies to execute function if named main, i think
 
 
 
-#sound function
+
 
 
 
